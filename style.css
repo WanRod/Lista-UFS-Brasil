@@ -1,0 +1,16 @@
+tr:nth-child(even){
+background-color: antiquewhite;
+}
+    
+th{
+    background-color: Lavender;
+    padding: 5px;
+}
+    
+table{
+    border-collapse: separate;
+}
+    
+td{
+    padding: 5px;
+}
